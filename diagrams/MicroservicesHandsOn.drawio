@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T22:53:03.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="tWVG4Fbw5B2Z-t_7agB7" version="18.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-14T22:59:32.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="G12Vi-9uCSB0a1WCWIQ8" version="18.2.0" type="github" pages="2">
   <diagram id="KsEbkJM7PDmAZtpVS7UQ" name="ConfigurationServer">
     <mxGraphModel dx="2249" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
         <mxCell id="lkmtK4y4lQlVFhYngT-g-48" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#4D4D4D;strokeColor=none;shape=mxgraph.gcp2.mobile_devices;part=1;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="603.25" y="335" width="50" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="lkmtK4y4lQlVFhYngT-g-49" value="API Consumer" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#330000;flipV=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="lkmtK4y4lQlVFhYngT-g-49" value="API Consumers" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#330000;flipV=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="618.25" y="131.75" width="20" height="68.25" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkmtK4y4lQlVFhYngT-g-38" target="lkmtK4y4lQlVFhYngT-g-42">
@@ -273,7 +273,7 @@
         <mxCell id="lkmtK4y4lQlVFhYngT-g-53" value="" style="sketch=0;outlineConnect=0;fillColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" vertex="1" parent="1">
           <mxGeometry x="459.5" y="406.5" width="71" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="lkmtK4y4lQlVFhYngT-g-60" value="Auth Server KeyCloack" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontColor=#330000;flipV=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="lkmtK4y4lQlVFhYngT-g-60" value="Auth Server KeyCloak" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontColor=#330000;flipV=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="388.25" y="434" width="100" height="68.25" as="geometry" />
         </mxCell>
       </root>
