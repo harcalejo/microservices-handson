@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T22:59:32.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="G12Vi-9uCSB0a1WCWIQ8" version="18.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-15T23:26:10.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="caxfZWPyvLZ0oZFUb4Z_" version="18.2.0" type="github" pages="2">
   <diagram id="KsEbkJM7PDmAZtpVS7UQ" name="ConfigurationServer">
     <mxGraphModel dx="2249" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,8 +140,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lkmtK4y4lQlVFhYngT-g-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-219.5" y="120" width="1030" height="430" as="geometry" />
+        <mxCell id="lkmtK4y4lQlVFhYngT-g-61" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f5f5f5;sketch=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="122.25" width="970" height="380" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-2" value="Github&lt;br&gt;Repository" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png" vertex="1" parent="1">
           <mxGeometry x="-199" y="257" width="78" height="78" as="geometry" />
@@ -187,7 +187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-12" value="&lt;h1&gt;&lt;font color=&quot;#330000&quot;&gt;API Gateway&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="70" width="1030" height="40" as="geometry" />
+          <mxGeometry x="-230" y="70" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-13" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="245.5" y="277.5" width="100" height="85" as="geometry" />
