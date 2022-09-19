@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T21:50:45.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Q7V8Ofl6PAcfyKoIMew_" version="20.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-19T21:51:20.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="I8nd1ldABBoj4mcSQIjN" version="20.3.1" type="github" pages="4">
   <diagram id="89ySLFQDpUx7z2WM3wo2" name="Microservices">
     <mxGraphModel dx="1822" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ClI9ug34ilCOiqGO5_HX" name="Service Discovery">
-    <mxGraphModel dx="2022" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="400" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KsEbkJM7PDmAZtpVS7UQ" name="ConfigurationServer">
-    <mxGraphModel dx="2222" dy="754" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="697" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="he6KqwjYOXOHy5wCG0fV" name="API Gateway">
-    <mxGraphModel dx="2249" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -355,9 +355,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-53" value="" style="sketch=0;outlineConnect=0;fillColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" parent="1" vertex="1">
-          <mxGeometry x="459.5" y="406.5" width="71" height="71" as="geometry" />
+          <mxGeometry x="459.5" y="400" width="71" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="lkmtK4y4lQlVFhYngT-g-60" value="Auth Server KeyCloak" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontColor=#330000;flipV=0;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lkmtK4y4lQlVFhYngT-g-60" value="Auth Server KeyCloak&lt;br&gt;Port:8085" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontColor=#330000;flipV=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="388.25" y="434" width="100" height="68.25" as="geometry" />
         </mxCell>
       </root>
