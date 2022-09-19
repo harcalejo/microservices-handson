@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T21:51:20.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="I8nd1ldABBoj4mcSQIjN" version="20.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-19T22:33:23.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZF18JKBX4IGEs6KB4OpB" version="20.3.1" type="github" pages="4">
   <diagram id="89ySLFQDpUx7z2WM3wo2" name="Microservices">
     <mxGraphModel dx="1822" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="400" pageHeight="400" math="0" shadow="0">
       <root>
@@ -231,10 +231,10 @@
           <mxGeometry x="-199" y="257" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-3" value="Config &lt;br&gt;Server" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cloud_Service.svg;" parent="1" vertex="1">
-          <mxGeometry x="30.99" y="276" width="50" height="42" as="geometry" />
+          <mxGeometry x="-50" y="276" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-4" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
-          <mxGeometry x="220.5" y="200" width="149" height="50" as="geometry" />
+          <mxGeometry x="96.5" y="200" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-5" value="Booking&lt;br&gt;Microservice&lt;br&gt;&lt;b&gt;@RefreshScope&lt;/b&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.dedicated_game_server;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" parent="lkmtK4y4lQlVFhYngT-g-4" vertex="1">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-6" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="1" vertex="1">
-          <mxGeometry x="220.5" y="362.5" width="149" height="44" as="geometry" />
+          <mxGeometry x="96.5" y="362.5" width="149" height="44" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-7" value="Product&lt;br&gt;Microservice&lt;br&gt;&lt;b&gt;@RefreshScope&lt;/b&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.dedicated_game_server;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" parent="lkmtK4y4lQlVFhYngT-g-6" vertex="1">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
@@ -250,7 +250,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-8" value="Spring Cloud &lt;br&gt;Config" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" parent="1" vertex="1">
-          <mxGeometry x="37.93000000000001" y="400" width="36.13" height="34" as="geometry" />
+          <mxGeometry x="-43.05999999999999" y="367.5" width="36.13" height="34" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lkmtK4y4lQlVFhYngT-g-4" target="lkmtK4y4lQlVFhYngT-g-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -274,7 +274,7 @@
           <mxGeometry x="-230" y="70" width="990" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="245.5" y="277.5" width="100" height="85" as="geometry" />
+          <mxGeometry x="120" y="277.5" width="100" height="85" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-14" value="" style="strokeWidth=2;dashed=0;align=center;fontSize=8;shape=rect;fillColor=#fffbc0;strokeColor=#000000;fontColor=#330000;" parent="lkmtK4y4lQlVFhYngT-g-13" vertex="1">
           <mxGeometry x="39.16666666666667" width="21.666666666666668" height="11.76923076923077" as="geometry" />
@@ -316,13 +316,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#A9C4EB;sketch=1;fontColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="391.75" y="204.75" width="96.5" height="203.5" as="geometry" />
+          <mxGeometry x="345.5" y="204.75" width="96.5" height="203.5" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-36" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;fontColor=#330000;strokeColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="401.75" y="257" width="76.5" height="93" as="geometry" />
+          <mxGeometry x="355.5" y="257" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-39" value="API Gateway" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#330000;flipV=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="430" y="131.75" width="20" height="68.25" as="geometry" />
+          <mxGeometry x="382" y="131.75" width="20" height="68.25" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-41" value="Spring Cloud &lt;br&gt;Gateway" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;" parent="1" vertex="1">
           <mxGeometry x="520" y="277.5" width="36.13" height="34" as="geometry" />
@@ -346,7 +346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-55" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=default;shadow=0;align=center;verticalAlign=top;fillColor=#4D4D4D;shape=mxgraph.gcp2.lock;fontColor=#330000;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="420.5" y="384" width="39" height="50" as="geometry" />
+          <mxGeometry x="374.25" y="384" width="39" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-51" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#330000;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="lkmtK4y4lQlVFhYngT-g-38" target="lkmtK4y4lQlVFhYngT-g-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -355,10 +355,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-53" value="" style="sketch=0;outlineConnect=0;fillColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" parent="1" vertex="1">
-          <mxGeometry x="459.5" y="400" width="71" height="71" as="geometry" />
+          <mxGeometry x="413.25" y="400" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="lkmtK4y4lQlVFhYngT-g-60" value="Auth Server KeyCloak&lt;br&gt;Port:8085" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=1;verticalAlign=middle;align=center;fontColor=#330000;flipV=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="388.25" y="434" width="100" height="68.25" as="geometry" />
+          <mxGeometry x="342" y="434" width="100" height="68.25" as="geometry" />
+        </mxCell>
+        <mxCell id="M6AouJL0tU77j1OwKHqi-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="350" as="sourcePoint" />
+            <mxPoint x="180" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6AouJL0tU77j1OwKHqi-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lkmtK4y4lQlVFhYngT-g-38" target="lkmtK4y4lQlVFhYngT-g-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="630" as="sourcePoint" />
+            <mxPoint x="150" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6AouJL0tU77j1OwKHqi-3" value="Token &lt;br&gt;Relay" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M6AouJL0tU77j1OwKHqi-2">
+          <mxGeometry x="0.2635" y="3" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
