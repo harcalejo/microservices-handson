@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T20:41:20.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="2L5Yr_F_gi-0PATMa0wr" version="20.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-19T20:43:31.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8Po45Hz87LK_BM6RVpE2" version="20.3.1" type="github" pages="4">
   <diagram id="89ySLFQDpUx7z2WM3wo2" name="Microservices">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,15 +37,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ClI9ug34ilCOiqGO5_HX" name="Service Discovery">
-    <mxGraphModel dx="2249" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0TL2oweVPm5CQylAhYU6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-523" y="180" width="243" height="220" as="geometry" />
+          <mxGeometry x="-403" y="80" width="243" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Ykiab6RZSetUDB9y3jBl-1" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="160" width="213" height="50" as="geometry" />
+          <mxGeometry x="-420" y="60" width="213" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ykiab6RZSetUDB9y3jBl-2" value="&lt;b&gt;Eureka&lt;br&gt;Service Discovery&lt;br&gt;Port:8761&lt;/b&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.service_discovery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="Ykiab6RZSetUDB9y3jBl-1">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
@@ -56,7 +56,7 @@
           <mxGeometry x="173" y="10" width="31.88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PeouhHBziW6q2aRWVrRv-1" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="-505" y="230" width="182.5" height="50" as="geometry" />
+          <mxGeometry x="-385" y="130" width="182.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PeouhHBziW6q2aRWVrRv-2" value="&lt;b&gt;Booking&lt;br&gt;Microservice&lt;/b&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.dedicated_game_server;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="PeouhHBziW6q2aRWVrRv-1">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
@@ -67,7 +67,7 @@
           <mxGeometry x="142.5" y="10" width="31.88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PeouhHBziW6q2aRWVrRv-3" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="-505" y="318" width="182.5" height="44" as="geometry" />
+          <mxGeometry x="-385" y="218" width="182.5" height="44" as="geometry" />
         </mxCell>
         <mxCell id="PeouhHBziW6q2aRWVrRv-4" value="&lt;b&gt;Product&lt;br&gt;Microservice&lt;/b&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.dedicated_game_server;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="PeouhHBziW6q2aRWVrRv-3">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
